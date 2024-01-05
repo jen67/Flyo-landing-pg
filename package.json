@@ -1,0 +1,12 @@
+{
+  "name": "flyo-landing-pg",
+  "version": "1.0.0",
+  "description": "This repository contains the flyo landing page challenge from Frontend mentor.io platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gift Amachree & Olaoluwa Oluwadamilare",
+  "license": "ISC"
+}
